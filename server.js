@@ -4,6 +4,8 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
 var timeout = require('connect-timeout');
+
+//trying out morgan logs 
 var morgan = require('morgan');
 var fs = require('fs');
 var path = require('path');
