@@ -16,9 +16,9 @@ var mysql = require("mysql");
 
 // module.exports = connection;
 
-let mysql = require('mysql');
+//var mysql = require('mysql');
 
-let connection;
+var connection;
 
 if (process.env.JAWSDB_URL) {
   console.log(process.env.JAWSDB_URL)
