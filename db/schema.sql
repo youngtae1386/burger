@@ -1,4 +1,4 @@
-
+GRANT SELECT ON burgers_db.* TO 'rsuwcyvur3w4fbx4'@'localhost';
 CREATE DATABASE IF NOT EXISTS burgers_db;
 USE burgers_db;
 
