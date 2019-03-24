@@ -13,10 +13,23 @@
     "morgan": "^1.9.0",
     "mysql": "^2.16.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "Node.js",
+    "express",
+    "express-handlebars",
+    "body-parser",
+    "MySQL",
+    "method-override"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngtae1386/burger.git",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "devDependencies": {},
+    "author": "Young Cho",
+    "license": "ISC"
+  }
 }
