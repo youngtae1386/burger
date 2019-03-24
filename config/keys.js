@@ -5,6 +5,7 @@ exports.AccessMysql = {
     user: 'root',
     password:'Qwer!234',
     database: 'burgers_db',
+    
     // socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
 };
 
