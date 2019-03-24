@@ -26,7 +26,7 @@
     "url": "git+https://github.com/youngtae1386/burger.git",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node src/index.js",
+      "start": "node server.js",
       "build": "webpack"
     },
     "devDependencies": {},
